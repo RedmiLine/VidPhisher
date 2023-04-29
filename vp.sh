@@ -501,7 +501,7 @@ echo -e "${ask}Choose an option:
 
 ${cyan}[${white}1${cyan}] ${yellow}Selfie Filter
 ${cyan}[${white}2${cyan}] ${yellow}Online Meeting
-${cyan}[${white}d${cyan}] ${yellow}Change Image Directory (current: ${red}${FOL}${yellow})
+${cyan}[${white}d${cyan}] ${yellow}Change Media Directory (current: ${red}${FOL}${yellow})
 ${cyan}[${white}t${cyan}] ${yellow}Change Type of Media (current: ${red}${TYPE}${yellow})
 ${cyan}[${white}p${cyan}] ${yellow}Change Default Port (current: ${red}${PORT}${yellow})
 ${cyan}[${white}s${cyan}] ${yellow}Change Default Duration (current: ${red}${DURATION}${yellow})
